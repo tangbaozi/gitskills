@@ -4,3 +4,8 @@
 首先，登陆GitHub，然后，在右上角找到“Create a new repo”按钮，创建一个新的仓库：
 
 github-create-repo-1
+
+
+
+
+Creating a new branch is quick.
